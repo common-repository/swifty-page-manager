@@ -1,0 +1,574 @@
+# Translation of Swifty Page Manager in Hebrew
+# This file is distributed under the same license as the Swifty Page Manager package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-05-21 14:00:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Swifty Page Manager\n"
+
+#: swifty-page-manager.php:1603
+msgid "All languages"
+msgstr ""
+
+#: swifty-page-manager.php:188
+msgid "Page tree max. width"
+msgstr ""
+
+#: swifty-page-manager.php:534
+msgid "Checking url"
+msgstr ""
+
+#: swifty-page-manager.php:1015
+msgid "Url is unique."
+msgstr ""
+
+#: swifty-page-manager.php:1034
+msgid "Url contains forbidden characters."
+msgstr ""
+
+#: swifty-page-manager.php:1047
+msgid "Url is not unique."
+msgstr ""
+
+#: swifty-page-manager.php:229
+msgid "SwiftySite Pages"
+msgstr ""
+
+#: swifty-page-manager.php:483
+msgid "Pages"
+msgstr ""
+
+#: swifty-page-manager.php:535
+msgid ""
+"Unfortunately you can not create a sub page under a page with status 'Draft' "
+"because the draft page has not yet been published and thus technically does "
+"not exist yet. For now, just create it as a regular page and later you can "
+"drag and drop it to become a sub page."
+msgstr ""
+
+#: swifty-page-manager.php:286 swifty-page-manager.php:448
+#: swifty-page-manager.php:506
+msgid "You do not have sufficient permissions to access this page. #314"
+msgstr ""
+
+#: swifty-page-manager.php:525
+msgid "draft"
+msgstr "טיוטה"
+
+#: swifty-page-manager.php:526
+msgid "future"
+msgstr "עתידי"
+
+#: swifty-page-manager.php:527
+msgid "protected"
+msgstr "מוגן"
+
+#: swifty-page-manager.php:528
+msgid "pending"
+msgstr "בהמתנה"
+
+#: swifty-page-manager.php:529
+msgid "private"
+msgstr "פרטי"
+
+#: swifty-page-manager.php:530
+msgid "trash"
+msgstr "פח"
+
+#: swifty-page-manager.php:531
+msgid "Password protected page"
+msgstr "עמוד מוגן בססמה"
+
+#: swifty-page-manager.php:532
+msgid "No pages found."
+msgstr "לא נמצאו עמודים."
+
+#: swifty-page-manager.php:533
+msgid "Hidden"
+msgstr "נסתר"
+
+#: swifty-page-manager.php:536
+msgid "published - draft content"
+msgstr ""
+
+#: swifty-page-manager.php:493
+msgid "General"
+msgstr ""
+
+#: swifty-page-manager.php:571
+msgid "You do not have sufficient permissions to access this page. #359"
+msgstr ""
+
+#: swifty-page-manager.php:583
+msgid "You do not have sufficient permissions to access this page. #371"
+msgstr ""
+
+#: swifty-page-manager.php:618
+msgid "You do not have sufficient permissions to access this page. #465"
+msgstr ""
+
+#: swifty-page-manager.php:705
+msgid "You do not have sufficient permissions to access this page. #588"
+msgstr ""
+
+#: swifty-page-manager.php:719
+msgid "New page"
+msgstr "עמוד חדש"
+
+#: swifty-page-manager.php:840
+msgid "You do not have sufficient permissions to access this page. #708"
+msgstr ""
+
+#: swifty-page-manager.php:874
+msgid "You do not have sufficient permissions to access this page. #747"
+msgstr ""
+
+#: swifty-page-manager.php:898
+msgid "You do not have sufficient permissions to access this page. #771"
+msgstr ""
+
+#: swifty-page-manager.php:1331
+msgid "Unknown user"
+msgstr "משתמש לא ידוע"
+
+#: swifty-page-manager.php:1337
+msgid "[untitled page]"
+msgstr "[עמוד ללא כותרת]"
+
+#: view/page_tree.php:537
+msgid "Show as first sub"
+msgstr ""
+
+#: view/page_tree.php:547
+msgid "Alternative menu text"
+msgstr ""
+
+#: view/page_tree.php:196
+msgid "Page settings"
+msgstr ""
+
+#: view/page_tree.php:480 view/page_tree.php:508
+msgid "Default"
+msgstr ""
+
+#: view/page_tree.php:200
+msgid "Drag and drop this page to change the order of the pages"
+msgstr ""
+
+#: view/page_tree.php:85
+msgid "All"
+msgstr "הכל"
+
+#: view/page_tree.php:95
+msgid "Published"
+msgstr "פורסם"
+
+#: view/page_tree.php:105 view/page_tree.php:442
+msgid "Draft"
+msgstr "טיוטה"
+
+#: view/page_tree.php:115
+msgid "Pending"
+msgstr "בהמתנה"
+
+#: view/page_tree.php:125
+msgid "Future"
+msgstr "עתידי"
+
+#: view/page_tree.php:135
+msgid "Private"
+msgstr "פרטי"
+
+#: view/page_tree.php:144
+msgid "Trash"
+msgstr "פח"
+
+#: view/page_tree.php:150
+msgid "Expand"
+msgstr "הרחב"
+
+#: view/page_tree.php:151
+msgid "Collapse"
+msgstr "קפל"
+
+#: view/page_tree.php:156
+msgid "Clear search"
+msgstr "ניקוי שדה החיפוש"
+
+#: view/page_tree.php:157
+msgid "Search"
+msgstr "חיפוש"
+
+#: view/page_tree.php:158
+msgid "Searching..."
+msgstr "חיפוש..."
+
+#: view/page_tree.php:159
+msgid "Nothing found."
+msgstr "אין כלום."
+
+#: view/page_tree.php:167
+msgid "Loading..."
+msgstr "טוען..."
+
+#: view/page_tree.php:175
+msgid "Loading tree"
+msgstr "טוען את העץ"
+
+#: view/page_tree.php:181 view/page_tree.php:192
+msgid "Add page"
+msgstr "הוספת עמוד"
+
+#: view/page_tree.php:204
+msgid "Delete page"
+msgstr "מחיקת העמוד"
+
+#: view/page_tree.php:208
+msgid "Edit page content"
+msgstr "עריכת תוכן העמוד"
+
+#: view/page_tree.php:212
+msgid "View page"
+msgstr "הצג את העמוד"
+
+#: view/page_tree.php:216
+msgid "Publish page"
+msgstr "פרסם את העמוד"
+
+#: view/page_tree.php:235
+msgid "Are you sure you want to delete this page with all it's content?"
+msgstr "בטוח שרוצה למחוק את העמוד הזה עם כל התוכן שלו?"
+
+#: view/page_tree.php:244 view/page_tree.php:281 view/page_tree.php:570
+msgid "Cancel"
+msgstr "ביטול"
+
+#: view/page_tree.php:247
+msgid "Delete"
+msgstr "מחיקה"
+
+#: view/page_tree.php:271
+msgid ""
+"Are you sure you want to publish this page so it becomes visible to your "
+"visitors?"
+msgstr "בטוח שרוצה לפרסם את העמוד כך שיוצג לכל המבקרים?"
+
+#: view/page_tree.php:285
+msgid "Publish"
+msgstr "פרסום"
+
+#: view/page_tree.php:298
+msgid ""
+"The title of the page is the text that is shown in the tabs of the browser."
+"<br />It is also the short text that is shown in blue in the search engines "
+"such as Google.<br />Therefore it is important that it contains the most "
+"important keywords of what this page is about.<br />Put these at the "
+"beginning of the text.<br />That is one of many things you can easily do to "
+"get a higher search engine ranking.<br />The text should ideally be no "
+"longer than 70 characters.<br /><br />Example:<br /><br />Swifty Page "
+"Manager - easily create a page tree in Wordpress"
+msgstr ""
+
+#: view/page_tree.php:313
+msgid ""
+"This is the link to your page. It is important that the name of the page is "
+"the main keyword of that page<br />or the name of the product or service "
+"that you offer on that page. Preferably right behind the domain name.<br /"
+"><br />Example:<br><br />%s/<b>keyword</b><br />%s/<b>product-or-service</b>"
+msgstr ""
+
+#: view/page_tree.php:325
+msgid ""
+"Status <b>Live</b> means that everyone in the world can see that page and "
+"that it is shown in your site menu.<br />Status <b>Draft</b> means that only "
+"you can see that page when you are logged in and it is not shown in the site "
+"menu."
+msgstr ""
+
+#: view/page_tree.php:348
+msgid "Text in menu"
+msgstr "טקסט בתפריט"
+
+#: view/page_tree.php:352 view/page_tree.php:367
+msgid "Title"
+msgstr "כותרת"
+
+#: view/page_tree.php:379
+msgid "Position"
+msgstr "מיקום"
+
+#: view/page_tree.php:385
+msgid "After"
+msgstr "אחרי"
+
+#: view/page_tree.php:391
+msgid "As sub page of"
+msgstr "כדף משנה של"
+
+#: view/page_tree.php:399
+msgid "More"
+msgstr "יותר"
+
+#: view/page_tree.php:403
+msgid "Url"
+msgstr "כתובת URL"
+
+#: view/page_tree.php:413
+msgid "In menu"
+msgstr "בתפריט"
+
+#: view/page_tree.php:420 view/page_tree.php:487 view/page_tree.php:544
+msgid "Show"
+msgstr "הצג"
+
+#: view/page_tree.php:427 view/page_tree.php:494 view/page_tree.php:529
+#: view/page_tree.php:554
+msgid "Hide"
+msgstr "הסתר"
+
+#: view/page_tree.php:435
+msgid "Status"
+msgstr "מצב"
+
+#: view/page_tree.php:449
+msgid "Live"
+msgstr "חי"
+
+#: view/page_tree.php:473
+msgid "Header"
+msgstr "סרגל עליון"
+
+#: view/page_tree.php:501
+msgid "Sidebar"
+msgstr "סרגל צד"
+
+#: view/page_tree.php:515
+msgid "Left"
+msgstr "שמאל"
+
+#: view/page_tree.php:522
+msgid "Right"
+msgstr "ימין"
+
+#: view/page_tree.php:560
+msgid "Less"
+msgstr "פחות"
+
+#: view/page_tree.php:574
+msgid "Save"
+msgstr "שמירה"
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:172
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:173
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:174
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:175
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:176
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:177
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:178
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:179
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:180
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:181
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:184
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:185
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:1701
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:187
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/swifty_plugin/php/lib_swifty_plugin.php:51
+msgid "Licenses"
+msgstr ""
+
+#: lib/swifty_plugin/php/lib_swifty_plugin.php:239
+msgid "Swifty Plugins"
+msgstr ""
+
+#: lib/swifty_plugin/php/lib_swifty_plugin.php:241
+msgid "Active Swifty Plugins"
+msgstr ""
+
+#: lib/swifty_plugin/php/lib_swifty_plugin.php:326
+msgid "Swifty Settings"
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:86
+msgid "Save Changes"
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:98
+msgid "License activation of %s"
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:99
+msgid "Email"
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:100
+msgid "License key"
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:104
+msgid "License deactivation of %s"
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:105
+msgid "Deactivate License Key"
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:113
+msgid ""
+"Please enter the activation details you received from us, and click the "
+"'Activate' button."
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:180
+msgid "Plugin activated. "
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:267
+msgid ""
+"The license could not be deactivated. Use the License Deactivation tab to "
+"manually deactivate the license before activating a new license."
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:311
+msgid "Plugin license deactivated. "
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:385
+msgid "Deactivates an API License Key so it can be used on another blog."
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:75
+msgid "Activate"
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/classes/class-swifty-api-manager-update-api-check.php:382
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/classes/class-swifty-api-manager-update-api-check.php:412
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/classes/class-swifty-api-manager-update-api-check.php:462
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/classes/class-swifty-api-manager-update-api-check.php:482
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/swifty-license-check.php:146
+msgid "Activate %s"
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/swifty-license-check.php:147
+msgid "Deactivate %s"
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/swifty-license-check.php:264
+msgid ""
+"The license key for <b>%s</b> has not been activated, so the plugin is "
+"inactive! %sClick here%s to activate the license key and the plugin."
+msgstr ""
+
+#: lib/swifty_plugin/php/swifty-licenses/swifty-license-check.php:284
+msgid ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+msgstr ""
